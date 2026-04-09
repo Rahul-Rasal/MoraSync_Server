@@ -151,7 +151,8 @@ const wait = (ms) => new Promise(res => setTimeout(res, ms));
 
 const MAX_ATTEMPTS = 3;
 // const MODEL = 'gemini-2.5-flash';
-const MODEL = 'gemini-1.5-pro';
+const MODEL = 'gemini-pro';
+
 
 
 /**
