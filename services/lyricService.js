@@ -3,7 +3,7 @@ import { analyzeJapanese } from './jp.js';
 import ApiLog from '../models/ApiLog.js';
 
 const MAX_ATTEMPTS = 3;
-const MODEL = 'gemini-2.5-flash';
+const MODEL = 'gemini-1.5-flash';
 
 /**
  * Build the initial poetic translation prompt
